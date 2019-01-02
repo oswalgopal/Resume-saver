@@ -36,8 +36,16 @@
    </form>
 
   <form>
-      
-  </form>	
+      <p class="Lobster-heading"> Enter your Hobbies and Intrest</p>
+      <textarea type="text" rows="10" cols="70">Hobbies and Intrest</textarea>
+    </form>  
+    <form>
+      <p class="Lobster-heading">Enter your skills</p>
+      <textarea type="text" rows="10" cols="70">Skills</textarea>
+  </form>
+  
+  
+  <button > submit</button>
 	
 	
 	
