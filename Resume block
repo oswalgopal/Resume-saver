@@ -13,18 +13,34 @@
 	  <p class="Lobster-heading">Enter Your Details </p>
           	
 	</center>
+	
+	<center>
 	<form>
 	
 	<p>Enter Your name : 	<input type="Text" required> </p>
 	<p>Enter Your date fo Birth :<input type="Date" required></p>
 	<p>Enter Your email I'd : <input type= "Text"required ></p>
     <p>Enter Your mobile no:  <input type="number" required> </p>
+    <p>Choose Your Gender:
+    <select name="gender" >
+        <option value="male">male</option>
+        <option value="female">female</option>
+        
+    </select>
+    </p>
     </form>
+    
+    <form >
+        <p>Upload your profile pic:
+   <input type="file" name="Profile Pic" accept="image/*"></p>
+   </form>
 
+  <form>
+      
+  </form>	
 	
 	
 	
-	
-	
+	</center>
 	</body>
 </html>
