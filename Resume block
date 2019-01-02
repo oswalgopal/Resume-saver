@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+<html>
+	<head>
+		<title>resume</title>
+		
+	</head>
+	
+	<body>
+	    <center >
+	   
+	  <p class="Lobster-heading">Enter Your Details </p>
+          	
+	</center>
+	<form>
+	
+	<p>Enter Your name : 	<input type="Text" required> </p>
+	<p>Enter Your date fo Birth :<input type="Date" required></p>
+	<p>Enter Your email I'd : <input type= "Text"required ></p>
+    <p>Enter Your mobile no:  <input type="number" required> </p>
+    </form>
+
+	
+	
+	
+	
+	
+	</body>
+</html>
