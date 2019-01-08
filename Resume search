@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Watch Resume</title>
+	</head>
+	<body><center>
+	    <img  border="2px"  src="https://www.tutorialspoint.com/job_search_skills/images/resume.jpg" >
+	    <div><p class="border">Enter Your Name:  <input type:text ></p>
+        <p>Search for Resume: <input type:text> </p>
+	   
+	    </div>
+	    <button>
+	       <p>Search</p>
+	    </button>
+		</center>
+	</body>
+</html>
