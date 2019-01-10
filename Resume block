@@ -14,8 +14,8 @@
           	
 	</center>
 	
-	<center>
-	<form>
+	<center >
+	<form class="border">
 	
 	<p>Enter Your name : 	<input type="Text" required> </p>
 	<p>Enter Your date fo Birth :<input type="Date" required></p>
@@ -28,24 +28,66 @@
         
     </select>
     </p>
-    </form>
     
-    <form >
+    
+    
         <p>Upload your profile pic:
    <input type="file" name="Profile Pic" accept="image/*"></p>
    </form>
+   
+   <form>
+       <p class="Lobster-heading">Education</p>
+       <table class="border2">
+           <th  >Class </th>
+            <th > Year</th>
+            <th> Percentage</th>
+       <tr>
+           <td><input type="number" required></td>       
+           <td><input type="number" required></td>
+           <td><input type="number" required></td>
+       </tr>
+        <tr>
+           <td><input type="number "></td>       
+           <td><input type="number"></td>
+           <td><input type="number"></td>
+       </tr>
+        <tr>
+           <td><input type="number "></td>       
+           <td><input type="number"></td>
+           <td><input type="number"></td>
+       </tr>
+       
+       
+       
+       
+       
+       </table>
+       
+       
+   </form>
+   
 
   <form>
       <p class="Lobster-heading"> Enter your Hobbies and Intrest</p>
-      <textarea type="text" rows="10" cols="70">Hobbies and Intrest</textarea>
+      <textarea class="border2" type="text" rows="10" cols="70">Hobbies and Intrest</textarea>
     </form>  
     <form>
       <p class="Lobster-heading">Enter your skills</p>
-      <textarea type="text" rows="10" cols="70">Skills</textarea>
+      <textarea class="border2" type="text" rows="10" cols="70">Skills</textarea>
+  </form>
+    <form>
+      <p class="Lobster-heading">Languages known</p>
+      <textarea class="border2" type="text" rows="10" cols="70"></textarea>
+  </form>
+  <form>
+      <p class="Lobster-heading">Other deatils</p>
+      <textarea class="border2" type="text" rows="10" cols="70"></textarea>
+      
   </form>
   
-  
-  <button > submit</button>
+  <form action="https://github.com">
+  <input type="button"  class="button" value="submit"  > 
+  </form>
 	
 	
 	
