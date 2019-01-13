@@ -1,0 +1,38 @@
+
+
+.Lobster{
+     font-family:Lobster;
+    font-size:40px;
+    color : red;
+    background-color:yellow;
+    padding-left:50px;
+    padding-right:50px; 
+    padding-top:50px; 
+    padding-bottom:50px;
+    border-left:2px solid #000000;
+	border-right:2px solid #000000;
+	border-top:2px solid #000000;
+	border-bottom:2px solid #000000;  
+	margin-right:500px; 
+	margin-left:500px; 
+
+
+}
+.border{
+	border-left:5px solid #000000;
+	border-right:5px solid #000000;
+	border-top:5px solid #000000;
+	border-bottom:5px solid #000000; 
+	background:Red; 
+
+}
+.border:hover{
+	background:yellow;
+}
+
+.name{
+	color:Red;
+	 
+	
+
+}
