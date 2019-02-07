@@ -48,7 +48,7 @@ body{
 	border-radius: 80px;
 	position: absolute;
 	top:24%;
-	left:43%;
+	left:40%;
 }
 
 .Lobster{
@@ -58,7 +58,7 @@ body{
 	background-color:yellow;
 	position: absolute;
 	top:5%;
-	left:39%;
+	left:37%;
     border-left:2px solid #000000;
 	border-right:2px solid #000000;
 	border-top:2px solid #000000;
@@ -76,7 +76,7 @@ body{
 	border-radius: 50px;
 	position: absolute;
 	top:65%;
-	left:42%;
+	left:38%;
 	background:rgb(168, 243, 218);
 	font-size:20px; 
 	padding:05px 50px 05px 50px;
@@ -99,7 +99,7 @@ body{
 	border-radius: 50px;
 	position: absolute;
 	top:65%;
-	left:52%;
+	left:50%;
 	background:rgb(168, 243, 218);
 	font-size:20px; 
 	padding:05px 50px 05px 50px;
