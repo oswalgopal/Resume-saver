@@ -9,6 +9,44 @@
 	border-left:10px solid black;
     
 }
+
+
+.a1{
+	position: absolute;
+	top:03%;
+	left:50%;
+	width: 30px;
+	height: 100px;
+	color:black;
+
+}
+.a2{
+	position: absolute;
+	top:03%;
+	left:60%;
+	width: 30px;
+	height: 100px;
+	color:black;
+}
+
+.a3{
+	position: absolute;
+	top:03%;
+	left:70%;
+	width: 30px;
+	height: 100px;
+	color:black;
+}
+.a4{
+	position: absolute;
+	top:03%;
+	left:  80%;
+	width: 30px;
+	height: 100px;
+	color:black;
+}
+
+
 .border{ 
     border-top: 8px solid black;
 	border-bottom:8px solid black;
