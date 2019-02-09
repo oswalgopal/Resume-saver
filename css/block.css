@@ -8,6 +8,7 @@ body{
     
     font-family:Lobster;
     font-size:50px;
+    border-radius: 50px;
 	background-color: Cyan;
 	border-top: 10px solid black;
 	border-bottom:10px solid black;
@@ -15,6 +16,44 @@ body{
 	border-left:10px solid black;
     
 }
+
+
+.a1{
+	position: absolute;
+	top:03%;
+	left:50%;
+	width: 30px;
+	height: 100px;
+	color:black;
+
+}
+.a2{
+	position: absolute;
+	top:03%;
+	left:60%;
+	width: 30px;
+	height: 100px;
+	color:black;
+}
+
+.a3{
+	position: absolute;
+	top:03%;
+	left:70%;
+	width: 30px;
+	height: 100px;
+	color:black;
+}
+.a4{
+	position: absolute;
+	top:03%;
+	left:  80%;
+	width: 30px;
+	height: 100px;
+	color:black;
+}
+
+
 .border{ 
     border-top: 8px solid black;
 	border-bottom:8px solid black;
@@ -43,4 +82,25 @@ body{
 	border-bottom:1px solid black;
 	border-right:1px solid black ;
 	border-left:1px solid black;
+    }
+
+    .btn{
+        color:deeppink;
+
+        background-color: springgreen;
+        border-radius: 50px;
+        border-right:2px solid black ;
+        border-bottom:2px solid black ;
+        border-top:2px solid black ;
+        border-left:2px solid black ;
+        padding:1px 20px 10px 20px;
+        font-size: 15px;
+
+    }
+
+
+    .btn:hover{
+        cursor: all-scroll;
+        color:white;        
+        background-color: rgb(60, 210, 30);
     }
